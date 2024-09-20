@@ -1,0 +1,8 @@
+.ticket{
+    border: 2px solid burlywood;
+    border-radius: 14px;
+    width: 300px;
+    margin: 15px;
+    align-items: center;
+    text-align: center;
+}
